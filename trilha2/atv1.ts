@@ -40,3 +40,5 @@ const conta = new ContaBancaria("João Silva", 1000);
 conta.depositar(500);
 conta.sacar(200);
 conta.sacar(1500);
+
+/* FIZ PELO TYPESCRIPT PLAYGROUND */

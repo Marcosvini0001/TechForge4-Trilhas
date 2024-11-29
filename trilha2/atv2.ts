@@ -28,3 +28,5 @@ const livroL = new Biblioteca("Aventura", "Marcos", 200);
 livroL.marcarComoLido();
 
 console.log(livroL.lido);
+
+/* FIZ PELO TYPESCRIPT PLAYGROUND */

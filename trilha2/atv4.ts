@@ -24,3 +24,5 @@ class Temperatura {
   console.log("Temperatura em Celsius: ${temperatura.getValorEmCelsius()}°C");
   console.log("Temperatura em Fahrenheit: ${temperatura.converterParaFahrenheit()}°F");
   console.log("Temperatura em Kelvin: ${temperatura.converterParaKelvin()}K");
+
+  /* FIZ PELO TYPESCRIPT PLAYGROUND */

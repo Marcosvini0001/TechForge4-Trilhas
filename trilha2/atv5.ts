@@ -29,4 +29,6 @@ class Agenda {
   minhaAgenda.adicionarCompromisso("Reunião com a equipe às 10h");
   minhaAgenda.adicionarCompromisso("Consulta médica às 15h");
   minhaAgenda.listarCompromissos();
+
+  /* FIZ PELO TYPESCRIPT PLAYGROUND */
   

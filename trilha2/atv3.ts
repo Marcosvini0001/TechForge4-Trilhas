@@ -23,3 +23,5 @@ class ProdutoEstoque implements Produto {
 
 const produto = new ProdutoEstoque("Pão", 10.5, 30);
 console.log(produto.calcularValorTotalEmEstoque());
+
+/* FIZ PELO TYPESCRIPT PLAYGROUND */
